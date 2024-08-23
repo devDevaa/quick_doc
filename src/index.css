@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: monospace, monospace;
+}
+
+::selection {
+    color: rgb(72, 28, 92);
+    background-color: rgb(187, 245, 112);
+}
